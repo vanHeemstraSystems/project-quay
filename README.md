@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+project-quay
+# Project Quay
 
-Based on "ABC" at https://www.abc.com/
+Based on "Project Quay" at https://www.projectquay.io
 
 ## 100 - Introduction
 
